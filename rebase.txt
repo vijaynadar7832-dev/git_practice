@@ -9,3 +9,6 @@ eighth
 nineth
 tenth
 eleventh
+twelveth
+thirteenth
+fourteenth
